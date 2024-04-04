@@ -107,9 +107,9 @@ body {
   align-items: center;
 }
 
-.teks{
-  align-self: center;
-  font-weight: normal;
+.teks {
+  font-weight: bolder;
+  color: darkblue;
 }
 
 /* Responsif */
