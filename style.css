@@ -102,6 +102,16 @@ body {
   font-weight: bolder;
 }
 
+.ending {
+  justify-content: center;
+  align-items: center;
+}
+
+.teks{
+  align-self: center;
+  font-weight: normal;
+}
+
 /* Responsif */
 /*Laptop*/
 @media (max-width: 1366px) {
