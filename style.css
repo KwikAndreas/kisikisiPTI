@@ -85,10 +85,6 @@ body {
   padding-right: 2%;
 }
 
-.sumber {
-  margin: 0;
-}
-
 .jarak {
   margin-top: 4px;
   margin-bottom: 4px;
@@ -104,4 +100,25 @@ body {
   margin-bottom: 16px;
   font-size: 32px;
   font-weight: bolder;
+}
+
+/* Responsif */
+/*Laptop*/
+@media (max-width: 1366px) {
+  html {
+    font-size: 75%;
+  }
+}
+
+/*Tab*/
+@media (max-width: 768px) {
+  html {
+    font-size: 62.5%;
+  }
+}
+
+@media (max-width: 450px) {
+  html {
+    font-size: 55%;
+  }
 }
