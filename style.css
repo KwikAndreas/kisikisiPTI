@@ -141,6 +141,11 @@ body {
     font-size: 18px;
   }
 
+  .teks{
+    font-size: 11px;
+    font-weight: bolder;
+  }
+
   #countdown{
     font-size: 6px;
   }
