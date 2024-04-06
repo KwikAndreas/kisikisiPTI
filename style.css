@@ -115,6 +115,8 @@ body {
 }
 
 .teks {
+  width: 360px;
+  text-align: center;
   font-weight: bolder;
   color: darkblue;
 }
@@ -145,21 +147,10 @@ body {
     font-size: 8px;
     font-weight: bolder;
   }
-
-  #countdown{
-    font-size: 6px;
-  }
 }
 
 @media (max-width: 450px) {
   html {
     font-size: 55%;
   }
-}
-
-#countdown{
-  font-size: 20px;
-  font-weight: bold;
-  color: white;
-  text-align: right;
 }
